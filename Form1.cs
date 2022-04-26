@@ -42,7 +42,7 @@ namespace CV09
             Colors yellow = new Colors("Žlutá", 255, 255, 0);
             Colors orange = new Colors("Oranžová", 255, 165, 0);
             Colors green = new Colors("Zelená", 0, 255, 0);
-            Colors brown = new Colors("Hnědá", 150, 75, 0);
+            Colors brown = new Colors("Hnědá", 101, 67, 33);
             Colors white = new Colors("Bílá", 255, 255, 255);
             mycolors.Add(black);
             mycolors.Add(red);
